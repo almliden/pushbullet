@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PushBullet.Configurator": {
+      "commandName": "Project",
+      "commandLineArgs": "Configuration/Configuration.xml Configuration/cevices.json"
+    }
+  }
+}
